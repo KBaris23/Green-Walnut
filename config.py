@@ -1,0 +1,42 @@
+import math
+WIN_WIDTH,WIN_HEIGHT=960,640
+PLAYER_LAYER, BLOCK_LAYER=-1,-2
+TILESIZE=32
+BLUE=(0,0,255)
+FPS=22
+hits_number=2
+ACCELERATION=2
+PLAYER_SPEED=3
+BLACK=(0,0,0)
+GREEN=(0,255,0)
+RED=(255,0,0)
+GREEN_LIGHT=(20,200,5)
+BLUE_LIGHT=(50,25,200)
+RED_LIGHT=(100,20,20)
+tilemap=['BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB',
+         'B.............P...........P..B',
+         'B...........B..............P.B',
+         'B............B...........Ep.PB',
+         'B.............B..........Ep.PB',
+         'B....................P.....P.B',
+         'B.........P...............P..B',
+         'BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB',
+         'B........P...................B',
+         'B....P.......................B',
+         'B....P.......................B',
+         'B...P.......B................B',
+         'B.fE........B................B',
+         'B.fE........B................B',
+         'B...P........................B',
+         'B....P.......................B',
+         'B....P.......................B',
+         'B............................B',
+         'BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB',
+         'SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS']
+MOUSEPOS=[]
+MOUSEPOS1=[]
+BALLDIRECTIONX=[]
+BALLDIRECTIONY=[]
+Score=[]
+GAMEOVERSCORE=[20]
+WINCONDITION=[1]
