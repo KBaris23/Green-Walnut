@@ -1,0 +1,4 @@
+RECT_CENTER_X=[]
+RECT_CENTER_Y=[]
+IMG_MAP=[]
+
