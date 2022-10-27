@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PoseModule", "PythonApplication9\PoseModule.pyproj", "{DCD41AC1-C397-4AD3-A108-5B77A86077EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD41AC1-C397-4AD3-A108-5B77A86077EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD41AC1-C397-4AD3-A108-5B77A86077EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6464FCE3-B688-453E-8731-8E97600ABAED}
+	EndGlobalSection
+EndGlobal
